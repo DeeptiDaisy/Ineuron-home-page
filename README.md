@@ -1,10 +1,10 @@
 # Ineuron-home-page
 Website for Ineuron
 
-##index.html
+## index.html
 
 in this file i have used bootstrap.
 
-##style.css
+## style.css
 
 This file is for styling my website.
